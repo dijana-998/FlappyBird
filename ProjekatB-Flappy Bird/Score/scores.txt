@@ -1,0 +1,8 @@
+player1 - 21
+player2 - 34
+player3 - 18
+player4 - 25
+player5 - 18
+player6 - 21
+Player7 - 28
+Player8 - 20

@@ -1,0 +1,21 @@
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\bin\Debug\ProjekatB-Flappy Bird.exe.config
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\bin\Debug\ProjekatB-Flappy Bird.exe
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\bin\Debug\ProjekatB-Flappy Bird.pdb
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\obj\Debug\ProjekatB-Flappy Bird.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\obj\Debug\ProjekatB-Flappy Bird_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\obj\Debug\ProjekatB-Flappy Bird_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\obj\Debug\ProjekatB-Flappy Bird.g.resources
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\obj\Debug\ProjekatB_Flappy_Bird.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\obj\Debug\ProjekatB-Flappy Bird.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\obj\Debug\ProjekatB-Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\obj\Debug\ProjekatB-Flappy Bird.exe
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\obj\Debug\ProjekatB-Flappy Bird.pdb
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\obj\Debug\Game.g.cs
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\obj\Debug\Game.baml
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\obj\Debug\Instructions.g.cs
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\obj\Debug\Score.g.cs
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\obj\Debug\Instructions.baml
+C:\Users\Lenovo\Desktop\ProjekatB-Flappy Bird\ProjekatB-Flappy Bird\obj\Debug\Score.baml
